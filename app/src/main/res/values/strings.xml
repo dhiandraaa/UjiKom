@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UjiKom</string>
+    <string name="light_sensor">Light Sensor</string>
+    <string name="location_service">Location Service</string>
+    <string name="get_location">Get Location</string>
+    <string name="selamat_datang">Selamat datang, </string>
+    <string name="nama">Nama</string>
+    <string name="simpan">Simpan</string>
+    <string name="dhiandra">dhiandra</string>
+    <string name="dikembangkan_oleh">Dikembangkan oleh:</string>
+</resources>
